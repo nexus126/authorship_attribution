@@ -8,8 +8,8 @@ The code requires the following packages: NumPy, Pandas, Chardet, Collections, S
 Author attribution "is the task of identifying the author of a given text from a (given) set of suspects".
 
 In this paper we propose a dataset unpublished in the AA task. 
-The domain of the dataset seems to be novel also for to the pre-trained language models we propose in the various [notebooks]().
-Next to pre-trained language models we test [symbolic-lexical models](), [style-based models](), and [syntax-based models](). 
+The domain of the dataset seems to be novel also for to the pre-trained language models we propose in the various [notebooks](https://github.com/LeonardRanaldi/AuthorshipAttribution/blob/main/Holistic_Transformers.ipynb).
+Next to pre-trained language models we test [symbolic-lexical models](), [style-based models](https://github.com/LeonardRanaldi/AuthorshipAttribution/blob/main/BoW.ipynb), and [syntax-based models](https://github.com/LeonardRanaldi/AuthorshipAttribution/blob/main/BoPOS.ipynb). 
 
 ## File Descriptions
 The proposed dataset can be found at the following [link](https://www.azsecure-data.org/dark-web-forums.html).
